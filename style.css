@@ -1,0 +1,43 @@
+*{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: inherit;
+    user-select: none;
+}
+.meny-joyi{
+ background-color: black;  
+ display: flex; 
+}
+.meny-joyi>ul{
+    gap: 20px;
+    color: white;
+    display: flex;
+    margin-left: 857px;
+    margin-right: 100px;
+    align-items: center;
+}
+.boshlanish-ota{
+   margin-left: 540px;
+   font-size: 40px;
+   align-items: center;
+   justify-content: center;
+}
+.span{
+    display: inline-block;
+    text-align: center;
+}
+.div{
+    margin-left: 100px;
+}
+.ota-divlar-bir{
+    display: flex;
+    
+}
+.tort-div{
+    margin-left: 100px;
+}
+.ota-divlar-ikki{
+    display: flex;
+}
